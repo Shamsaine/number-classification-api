@@ -1,4 +1,3 @@
-```markdown
 # Number Classification API
 
 The **Number Classification API** is a Spring Boot application that takes a number as input and returns its properties, such as whether it is prime, perfect, Armstrong, even/odd, and its digit sum. Additionally, it fetches a fun fact about the number using the [Numbers API](http://numbersapi.com).
@@ -134,4 +133,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - [Numbers API](http://numbersapi.com) for providing fun facts about numbers.
-```
